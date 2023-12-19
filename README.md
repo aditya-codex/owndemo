@@ -1,2 +1,3 @@
 # owndemo
-this is my firsst hub repository
+this is my first hub repository
+author-Aditya kumar
